@@ -46,5 +46,12 @@ Common Filesystem Locations
 
 Commonly seen applications
 ----------------------------
-* cups
+* `cupsd` - Printer daemon
+* `nc` - netcat utility application for opening network ports
+* `apache2` - Web serving application
+* `avahi-daemon` - Used for bringing up DNS on systems (used by the system DO NOT DELETE)
+* `xinetd` - Used for bringing up some networking services (used by the system DO NOT DELETE)
+* `sshd` - Used for remote access to a system (used by the system DO NOT DELETE)
+
+
 
